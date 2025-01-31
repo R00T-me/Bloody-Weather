@@ -34,3 +34,4 @@ By using this bot, you acknowledge and agree that you are solely responsible for
    ```bash
    git clone https://github.com/R00T-me/Bloody-Weather.git
    cd Bloody-Weather
+   python3 main.py
